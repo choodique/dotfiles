@@ -78,6 +78,13 @@ alias bs='brew search'
 alias bup='brew update && brew upgrade'
 alias bcl='brew cleanup'
 
+# Git
+alias g='git'
+alias ga='git add'
+alias gc='git commit -m'
+alias gp='git push'
+
+
 # Other
 alias c='clear'
 
