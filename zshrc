@@ -84,7 +84,6 @@ alias ga='git add'
 alias gc='git commit -m'
 alias gp='git push'
 
-
 # Other
 alias c='clear'
 
